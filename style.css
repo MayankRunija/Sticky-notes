@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+    color: black;
+    transition: all 1.5s ease-out;
+  }
+  .dark-mode {
+    background-color: #191a23;
+    
+    transition: all 1.5s ease-out;
+  }
